@@ -143,6 +143,7 @@ th:last-child {
 table tbody {
   display: block;
   
+  overflow-y: auto;
   overflow-y: overlay;
 
   max-height: 52rem;
